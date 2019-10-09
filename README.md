@@ -1,2 +1,2 @@
-# simbainfo.github.com
-simbainfo.github.com
+# simbainfo.github.io
+simbainfo.github.io
